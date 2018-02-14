@@ -1,0 +1,4 @@
+* gp
+  :PROPERTIES:
+  :CUSTOM_ID: gp
+  :END:
